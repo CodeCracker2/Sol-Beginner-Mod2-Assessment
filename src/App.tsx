@@ -220,4 +220,8 @@ export default function App() {
           >
             Create a New Solana Account
           </button>
-         
+         </span>
+         </header>
+         </div>
+  );
+          }
